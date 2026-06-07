@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praktimum2</string>
+    <string name="textview1">TextView</string>
+    <string name="tv_nama">Masukkan Nama</string>
+    <string name="tv_hasil">Hasilnya Adalah</string>
+    <string name="et_hasil" />
+    <string name="et_nama" />
+    <string name="btn_proses">Proses</string>
+    <string name="tv_Nama">Nama Lengkap</string>
+    <string name="et_Nama" />
+    <string name="btn_Proses">Proses</string>
+</resources>
